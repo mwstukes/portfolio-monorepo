@@ -1,0 +1,12 @@
+{
+  "name": "@portfolio-monorepo/root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main:start": "pnpm -F @portfolio-monorepo/main run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
