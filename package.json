@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "main:start": "pnpm -F @portfolio-monorepo/main run start"
+    "main:start": "pnpm -F @portfolio-monorepo/main run start",
+    "epk:start": "pnpm -F @portfolio-monorepo/epk run start",
+    "epk:build": "pnpm -F @portfolio-monorepo/epk run build"
   },
   "keywords": [],
   "author": "",
